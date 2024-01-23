@@ -13,11 +13,8 @@
   - [Arduino Uno](https://github.com/Ghanath/IoT-Project.git)
 - <b>Automated Blob Detection and Identification of Spotted Lanternfly Eggs (Machine Learning)</b>
   - [Image Detection Analysis](https://github.com/Ghanath/Machine-Learning.git) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Sentiment Analysis(Data Science)</b>
+  - [Analysis of Social Media Data](https://github.com/Ghanath/Data-Science.git)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)

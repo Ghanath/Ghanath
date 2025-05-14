@@ -19,7 +19,7 @@
 <h2>📺 Problem Solving Skills Videos</h2>
 
 - [Appriciation from professor for creative thinking, while solving automation problem](https://drive.google.com/file/d/1BoPkFYdMNt-J-WqGE35YcG7xEfQ5YuJ-/view?usp=sharing)<i>(UI Path Studio, Automation)</i>
-- [Interview on my channel](https://photos.app.goo.gl/9xKsRedAg1Pp4hem6)
+- [Interview on my channel](https://drive.google.com/file/d/1cpBgeyxUJqmJvQAiA9MQhvsp-A2W1YU3/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
